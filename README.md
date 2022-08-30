@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Solution URL: [Solution URL here](https://github.com/JulianLivrone/Testimonials-grid-section)
+- Live Site URL: [Live site URL here](https://julianlivrone.github.io/Testimonials-grid-section/)
 
 ## My process
 
